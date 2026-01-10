@@ -1,0 +1,8 @@
+item { 
+	name:'Healthy Pod'
+	id:1
+}
+item { 
+	name:'Infected Pod'
+	id:2
+}
