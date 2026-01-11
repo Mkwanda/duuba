@@ -6,7 +6,7 @@ authors = [
     {name = "mkwanda",email = "mbrkkwanda@gmail.com"}
 ]
 readme = "README.md"
-requires-python = "==3.10.11"
+requires-python = "==3.10"
 dependencies = [
     "tensorflow-io-gcs-filesystem (==0.31.0)",
     "tensorflow (==2.10.1)",
